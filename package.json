@@ -1,12 +1,24 @@
 {
   "name": "blocks",
   "version": "1.0.0",
-  "description": "",
+  "description": "Blocks is a MERNG stack output personal project of Steven Gragg for DEMO Purpose of Social media app with GraphQL",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC"
+  "keywords": [
+    "MERNG",
+    "MERN",
+    "GraphQL",
+    "React",
+    "NodeJs",
+    "MongoDB"
+  ],
+  "author": "Steven Gragg",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.3.0",
+    "graphql": "^15.6.0",
+    "mongoose": "^6.0.8"
+  }
 }
